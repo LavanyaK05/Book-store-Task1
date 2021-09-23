@@ -1,0 +1,44 @@
+.container{
+    padding: 5% 5%;
+    margin: 5% 5%;
+}
+/* #start_btn{
+    /* width: 100%; */
+/* } */ 
+
+/* #btn_addbook{
+    margin-left: 78%;
+    margin-right: 1%;
+} */
+
+.navbar-brand{
+    font-weight: bolder;
+    font-size: 32px;
+}
+
+#addBook{
+    margin-right: 20px;
+}
+
+.form-group{
+    margin-bottom: 15px;
+}
+
+label{
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+#price{
+    width: 20%;
+}
+
+#datePicker{
+    width: 20%;
+}
+
+#submitBtn{
+    padding: 5px 30px;
+}
